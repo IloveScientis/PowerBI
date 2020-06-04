@@ -2,7 +2,7 @@
 > This one just a sample to work with Power BI and Python.
 
 
-![](header.png)
+![](/header.png)
 
 
 
